@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WebApplication1\WebApplication1.csproj">
-      <Project>{4791938E-285B-4174-A871-87E1C1C4FA08}</Project>
+      <Project>{4791938e-285b-4174-a871-87e1c1c4fa08}</Project>
       <Name>WebApplication1</Name>
     </ProjectReference>
   </ItemGroup>
